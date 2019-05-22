@@ -59,7 +59,7 @@ usage_exit() {
 	echo "Usage: $(basename $0) [-h] [-f <function>]"
 
 	echo ""
-	echo -e "\tIf no options, execute all function except usage_exit."
+	echo -e "\tIf no options, execute all function except usage_exit and show_function_list."
 	echo ""
 
 	echo "Options:"
